@@ -5,7 +5,7 @@ def sub(a, b):
     return a - b
 
 
-result1=add(5, 4)
-result2=sub(6, 3)
+result1 = add(5, 4)
+result2 = sub(6, 3)
 
 print(result1, result2)
